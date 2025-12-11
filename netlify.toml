@@ -1,0 +1,6 @@
+[[redirects]]
+  from = "/*"
+  to = "https://1743.3cx.cloud/callus/#fixiumdata"
+  status = 200
+  force = true
+  proxy = true
